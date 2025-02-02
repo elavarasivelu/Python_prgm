@@ -2,7 +2,7 @@ a = 100
 b = 200
 
 # Calculate the sum of a and b
-sum_result = a + b
+result = a - b
 
 # Display the result
-print(f"The sum of {a} and {b} is: {sum_result}")
+print(f"The sub of {a} and {b} is: {result}")
